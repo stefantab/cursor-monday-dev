@@ -3,7 +3,7 @@
 Use AI‑assisted commands in Cursor to update monday items, add concise status summaries from recent commits/PR diffs, and link work without leaving your editor.
 
 - Install extension: https://example.com/install/cursor-monday-dev
-- Read docs: https://github.com/your-org/cursor-monday-dev#readme
+- Read docs: https://github.com/stefantab/cursor-monday-dev#readme
 
 ## Highlights
 - Command palette actions to update items and statuses
