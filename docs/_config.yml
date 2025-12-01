@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
-title: GitHub for cursor dev
-description: PR & CI visibility in cursor dev
+title: Cursor + monday dev
+description: Run your sprint from your IDE — update items, add AI summaries, and link work without context switching.
+show_downloads: false
