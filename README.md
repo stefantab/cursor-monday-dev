@@ -28,7 +28,7 @@ See docs/COMMANDS.md for:
 - Local context by default; explicit consent before sending summaries.
 - OAuth to monday; secure token storage in IDE.
 - Minimal telemetry focused on feature usage (configurable).  
-Details:  https://github.com/stefantab/cursor-monday-dev/docs/PRIVACY.md
+Details: docs/PRIVACY.md
 
 ## Roadmap
 - Create items from IDE
