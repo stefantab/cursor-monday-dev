@@ -1,4 +1,5 @@
 <img src="https://avatars.githubusercontent.com/u/96165428?v=4" width="90" align="right" style="border-radius:50%">
+
 # Cursor + monday dev — Run your sprint from your IDE
 
 Use AI‑assisted commands in Cursor to update monday items, add concise status summaries from recent commits/PR diffs, and link work without leaving your editor.
