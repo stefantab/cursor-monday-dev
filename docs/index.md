@@ -5,6 +5,7 @@ description: Run your sprint from your IDE — update items, add AI summaries, a
 
 <img src="./assets/Stefan_Picture.jpg" width="96" align="right" alt="Stefan Tabacaru">
 
+
 # Cursor + monday dev — Run your sprint from your IDE
 
 Use AI‑assisted commands in Cursor to update monday items, add concise status summaries from recent commits/PR diffs, and link work without leaving your editor.
